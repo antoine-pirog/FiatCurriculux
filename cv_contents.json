@@ -1,0 +1,186 @@
+{
+    "header" : {
+        "first_name" : "Antoine",
+        "last_name"  : "Pirog",
+        "title" : "Enseignant-Chercheur en Electronique (section 63)",
+        "e-mail" : "antoine.pirog@junia.com",
+        "phone_number" : "+33 (0)7 87 06 04 59",
+        "github" : "antoine-pirog",
+        "orcid" : "0000-0002-7913-003X"
+    },
+    "sections" : [
+        {
+            "title" : "Formation & Diplômes",
+            "items" : [
+                {
+                    "title" : "Qualification aux postes de maître de conférence en section CNU 63",
+                    "date"  : "2021"
+                },
+                {
+                    "title" : "Thèse de Doctorat en Electronique",
+                    "date"  : "2014-2017",
+                    "place" : "Université de Bordeaux",
+                    "descr" : "**Titre** : « Système embarqué pour l'analyse multiparamétrique de signaux biologiques : application au biocapteur pancréatique du besoin d'insuline »"
+                },
+                {
+                    "title" : "Diplôme d'ingénieur en Electronique",
+                    "date"  : "2011-2014",
+                    "place" : "ENSEIRB-MATMECA, Talence",
+                    "descr" : "**Spécialisation** : électronique analogique et circuits & systèmes intégrés."
+                },
+                {
+                    "title" : "Diplôme de Master en Electronique",
+                    "date"  : "2013-2014",
+                    "place" : "Université de Bordeaux",
+                    "descr" : "**Spécialisation** : composants & fiabilité"
+                }
+            ]
+        },
+        {
+            "title" : "Expériences",
+            "items" : [
+                {
+                    "title" : "Enseignant-chercheur en Electronique",
+                    "date"  : "2021-Présent",
+                    "place" : "JUNIA Bordeaux",
+                    "list"  : [
+                        "**Référent de la recherche** à Junia Bordeaux. Déploiement et gestion d'une équipe de recherche. Membre du comité scientifique Junia.",
+                        "**Enseignement** : Electronique analogique, électronique numérique, circuits programmables (microcontrôleurs et FPGA), automatique linéaire, traitement du signal, Internet des Objets, projets R&D étudiants. Niveaux L1 à M2, en français et anglais. Tutorat d'élèves apprentis, accompagnement collectif à la professionnalisation. ",
+                        "**Recherche** : systèmes électroniques en interaction avec le vivant pour les applications biomédicales et exploitation de signatures bioélectroniques. 2 thèses co-encadrées, 12 publications dans des journaux, 15 communications et 8 posters dans des conférences. Montage et gestion de projets de recherche. "
+                    ]
+                },
+                {
+                    "title" : "Chercheur postdoctoral en bioélectronique",
+                    "date"  : "2020-2021",
+                    "place" : "Laboratoire IMS (UMR 5218), Université de Bordeaux",
+                    "list"  : [
+                        "Intégration et caractérisation de systèmes complexes à la croisée de l'électronique, la microfluidique, et l'électrophysiologie",
+                        "Traitement du signal pour l'extraction de marqueurs d'activité électrophysiologique, sur sources isolées et sur clusters",
+                        "Rédaction de projets de recherche et de transfert de technologie",
+                        "Vacations à l'ENSEIRB-MATMECA (cycle ingénieur années 1 à 3)"
+                    ]
+                },
+                {
+                    "title" : "Ingénieur de recherche en Bioélectronique",
+                    "date"  : "2019-2020",
+                    "place" : "Laboratoire IMS (UMR 5218), Université de Bordeaux",
+                    "list"  : [
+                        "Intégration de systèmes électroniques mixtes pour l'acquisition et le traitement de signaux électrophysiologiques (acquisition multicanaux, contrôle thermique par PID, traitement numérique embarqué)",
+                        "Traitement du signal pour l'extraction de marqueurs d'activité électrophysiologique"
+                    ]
+                },
+                {
+                    "title" : "Thèse en Electronique",
+                    "date"  : "2014-2017",
+                    "place" : "Laboratoire IMS (UMR 5218), Bordeaux INP",
+                    "list"  : [
+                        "Conception d'architectures numériques pour le traitement parallélisé de signaux multicanaux électrophysiologiques en temps-réel (sur FPGA et processeur RISC softcore), conception et déploiement de l'interface homme-machine associée (CLI & GUI) ",
+                        "Traitement et modélisation de signaux électrophysiologiques",
+                        "Algorithmes de régulation en boucle fermée pour le pancréas artificiel", 
+                        "Mission d'enseignement à l'ENSEIRB-MATMECA (électromagnétisme, électronique générale en 1ère année de cycle ingénieur)"
+                    ]
+                }
+            ]
+        },
+        {
+            "title" : "Responsabilités administratives",
+            "items" : [
+                {
+                    "title" : "Référent de la recherche à JUNIA",
+                    "date"  : "2024-Présent",
+                    "descr" : "Référent de la recherche du campus de Bordeaux de JUNIA : développement d'une nouvelle équipe de recherche, définition d'une direction scientifique, recrutements de nouveaux collaborateur.ice.s, coordination entre la stratégie recherche institutionnelle et locale"
+                },
+                {
+                    "title" : "Membre du comité scientifique de JUNIA",
+                    "date"  : "2024-Présent",
+                    "descr" : "Participation aux prises de décision scientifiques, participation à l'animation de la recherche,  reviewer de l'AAP interne."
+                }
+                
+            ]
+        },
+        {
+            "title" : "Enseignement",
+            "items" : [
+                {
+                    "title" : "Enseignement à JUNIA - Ecole d'ingénieurs (Bordeaux)",
+                    "table" : [
+                        ["Date", "Cours"],
+                        ["**2024-2025**", "**Architecture des ordinateurs** en L3 *(42h - CM, TD, TP)* \n**Electronique analogique** en L3 *(38h - CM, TD, TP)* \n**Projet d'électronique mixte** en L3 *(24h - Projet)* \n**Circuits numériques programmables FPGA et Microcontrôleurs** en M1 *(48h - CM, TD, TP)* \n**Projets R&D** en M1 *(120h - Pilotage des projets et encadrement)*"],
+                        ["**2023-2024**", "**Architecture des ordinateurs** en L3 *(42h - CM, TD, TP)* \n**Electronique analogique** en L3 *(38h - CM, TD, TP)* \n**Projet d'électronique mixte** en L3 *(24h - Projet)* \n**Circuits numériques programmables FPGA et Microcontrôleurs** en M1 *(48h - CM, TD, TP)* \n**Internet des Objets** en M1 *(28h - CM, Projet)* \n**Internet des Objets** en M2 (28h - CM, TD, TP) \n**Projets R&D** en M1 *(120h - Pilotage des projets et encadrement)*"],
+                        ["**2022-2023**", "**Circuits numériques programmables FPGA et Microcontrôleurs** en M1 *(52h - CM, TD, TP)* \n**Architecture des ordinateurs** en L3 *(40h - CM, TD, TP)* \n**Electronique analogique** en L3 *(40h - CM, TD, TP)* \n**Traitement du signal numérique** en L3 *(22h - CM, TD, TP)* \n**Automatique linéaire** en L3 *(20h - CM, TD, TP)* \n**Automatique linéaire** en L2 *(15h - CM, TD, TP)* \n**Projets R&D** en M1 *(150h - Pilotage des projets et encadrement)*"],
+                        ["**2021-2022**", "**Digital electronics** en L2 *(50h - CM, TD, TP)* \n**Control & Instrumentation** en L2 *(40h - CM, TD, TP)* \n**Electronique générale** en L3 *(100h - CM, TD, TP)* \n**Automatique linéaire** en L3 *(20h - CM, TD, TP)* \n**Automatique linéaire** en L2 *(15h - CM, TD, TP)* \n**Traitement du signal numérique** en L3 *(22h - CM, TD, TP)*"]
+                    ]
+                },
+                {
+                    "title" : "Vacations et monitorats à l’ENSEIRB-MATMECA – Ecole d’ingénieurs (Talence)",
+                    "table" : [
+                        ["Date", "Cours"],
+                        ["**2020-2021**", "**Projets de réalisation** en 3ème année *(15 HETD ; 4 étudiants, contrôle thermique par module Peltier)* \n**TP de programmation C** en 1ère année *(6 HETD)* \n**TP microcontrôleur** en 2ème année *(21 HETD)* \n**TD procédés de fabrication CMOS** en 3ème année *(3 HETD)*"],
+                        ["**2019-2020**", "**Projets de réalisation** en 2ème année *(15 HETD ; 4 étudiants, étude de l'équilibre postural par capteurs de pression)* \n**TD procédés de fabrication CMOS** en 3ème année *(3 HETD)* "],
+                        ["**2014-2017**", "**TD d'électronique analogique** en 1ère année *(7.5 HETD/an)* \n**TP d'électronique analogique** en 1ère année *(37 HETD/an)* \n**TD d'électromagnétisme** en 1ère année *(16 HETD/an)* \n**TP CAO d'électronique intégrée** en 1ère année *(15 HETD ; Convertisseur analogique-numérique sous Cadence)*"]
+                    ]
+                }
+            ]
+        },
+        {
+            "title" : "Projets de recherche",
+            "items" : [
+                {
+                    "title" : "",
+                    "table" : [
+                        ["Projet", "Dates", "Rôle", "Financement", "Partenaires", "Statut"],
+                        ["**BRAINBOW**"   , "2012-15", "Participation (M2)"               , "EU", "IMS, IIT, U. Genova, U. Tel Aviv", "Accepté"],
+                        ["**BIODIA**"     , "2013-14", "Participation (PhD)"              , "EU FEDER", "IMS, CBMN, CHU Bordeaux ", "Accepté"],
+                        ["**DIABETACHIP**", "2014-15", "Participation (PhD)"              , "SATT", "IMS, CBMN, CHU Bordeaux ", "Accepté"],
+                        ["**ISLET-CHIP**" , "2014-17", "Participation (PhD)"              , "ANR DGOS", "CHU Bordeaux, HCU Genève, IMS, CHU Grenoble, CHU Montpellier, CBMN, PTIB ", "Accepté"],
+                        ["**DIAGLYC**"    , "2017-21", "Participation (PhD)"              , "SATT", "IMS, CBMN, CHU Bordeaux", "Accepté"],
+                        ["**DIABLO**"     , "2019-22", "Participation (Post-Doc)"         , "ANR DGOS", "IMS-Bioélec, IMS Autom, CBMN, CHU Bordeaux ", "Accepté"],
+                        ["**FUNNET**"     , "2022-25", "Participation (EC)"               , "ANR PRCI \n*330k€ total*", "CBMN, IMS, UNIGE", "Accepté"],
+                        ["**DIAMOCHIP**"  , "2023-26", "Montage (EC)"                     , "ANR PRCE \n*608k€ total, 185k€ mon groupe*", "CBMN, IES, IMS, Tecnalia, Netri ", "Accepté"],
+                        ["**ILOBIO**"     , "2023-27", "Montage (EC)"                     , "ANR PRC \n*685k€ total*", "IMS, LS2N, CBMN", "Refusé"],
+                        ["**ILO-SIM**"    , "2024-26", "Montage (EC)"                     , "CNRS MITI \n*45k€ total, 9k€ mon groupe*", "IMS, CBMN", "Refusé"],
+                        ["**MIMICBIO**"   , "2024-28", "Montage (EC)"                     , "ANR PRC \n*712k€ total*", "IMS, LS2N, CBMN", "Accepté"],
+                        ["**MOCOSMO**"    , "2025-29", "Coordination Scientifique WP (EC)", "PEPR MED-OOC \n*2'394k€ total, 160k€ mon groupe*", "IES, IGMM, IRIM, IMS, Junia, Phymedexp, IEMN", "Refusé"],
+                        ["**MODICHA**"    , "2025-29", "Coordination Scientifique WP (EC" , "Fondation AJD \n *1'574k€ tota, 321k€ mon groupe*", "CBMN, UMR1283, Instit. COCHIN, Junia", "Refusé"],
+                        ["**SAMU**"       , "2026-30", "Montage (EC)"                     , "ANR PRC \n*688k€ total*", "IMS, LP2N, CRCTB", "En attente"],
+                        ["**VERITAS**"    , "2026-30", "Coordination Scientifique WP (EC)", "ANR PRC \n*-k€ total*", "UPPA, JUNIA, LaBRI", "En attente"],
+                        ["**RAY-ADAPT**"  , "2026-30", "Montage (EC)"                     , "ANR JCJC \n*464k€ total*", "JUNIA, IUCT-O, Institut Curie, UPPA, CREATIS", "En attente"]
+                    ]
+                }
+            ]
+        },
+        {
+            "title" : "Publications",
+            "items" : [
+                {
+                    "title" : "Articles dans des journaux",
+                    "table" : [
+                        ["Année", "Référence"],
+                        ["2026", "- Emilie Puginier, **Antoine Pirog**, Florence Poulletier de Gannes, Julien Gaitan, Annabelle Hurtier, et al.. A micro-organ based microfluidic biosensor for continuous monitoring of glucose levels in vivo. npj Biosensing, 2026, 3 (1), pp.12. ⟨10.1038/s44328-025-00077-4⟩. ⟨hal-05540550⟩ \n- Marie Lallouet, Manon Jaffredo, Antoine Pirog, Karen Leal-Fischer, Julien Gaitan, et al.. Pancreatic α-cells are required for nutrient homeostasis by regulating dynamic β-cell networks in islets. 2026. ⟨hal-05538920⟩"],
+                        ["2025", "- Lallouet, M., Olçomendy, L., Gaitan, J., Montiège, K., Monchablon, M., **Pirog, A.**, ... & Lang, J. (2025). A microfluidic twin islets-on-chip device for on-line electrophysiological monitoring. Lab on a Chip, 25(7), 1831-1841."],
+                        ["2024", "- Puginier, E., **Pirog, A.**, Poulletier de Gannes, F., Gaitan, J., Hurtier, A., Monchablon, M., ... & Lang, J. (2024). Continuous monitoring of glucose levels in vivo with a micro-organ based microfluidic biosensor. bioRxiv, 202404. (Accepted in Springer Nature, Jan. 2026)"],
+                        ["2023", "- Matthieu Raoux, Sandrine Lablanche, Manon Jaffredo, **Antoine Pirog**, Pierre-Yves Benhamou, et al.. Islets-on-Chip: A Tool for Real-Time Assessment of Islet Function Prior to Transplantation. Transplant International, 2023, 36, pp.11512. ⟨10.3389/ti.2023.11512⟩. ⟨hal-04390913⟩"],
+                        ["2022", "- Myriam Abarkan, **Antoine Pirog**, Donnie Mafilaza, Gaurav Pathak, Gilles N'Kaoua, et al.. Vertical Organic Electrochemical Transistors and Electronics for Low Amplitude Micro-Organ Signals. Advanced Science, 2022, 9 (8), pp.2105211. ⟨10.1002/advs.202105211⟩. ⟨hal-03720072⟩ \n- Loïc Olçomendy, **Antoine Pirog**, Fanny Lebreton, Manon Jaffredo, Louis Cassany, et al.. Integrating an Islet-Based Biosensor in the Artificial Pancreas: In Silico Proof-of-Concept. IEEE Transactions on Biomedical Engineering, 2022, IEEE Transactions on Biomedical Engineering, 69 (2), pp.899-909. ⟨10.1109/TBME.2021.3109096⟩. ⟨hal-03342685⟩ \n- Loïc Olçomendy, Louis Cassany, **Antoine Pirog**, Roberto Franco, Emilie Puginier, et al.. Towards the Integration of an Islet-Based Biosensor in Closed-Loop Therapies for Patients With Type 1 Diabetes. Frontiers in Endocrinology, 2022, 13, ⟨10.3389/fendo.2022.795225⟩. ⟨hal-03648913⟩ \n- Alexia Bailleul, Florence Poulletier de Gannes, **Antoine Pirog**, Gilles N'Kaoua, Adrien d'Hollande, et al.. Bioimpedance Spectroscopy Helps Monitor the Impact of Electrical Stimulation on Muscle Cells. IEEE Access, 2022, 10, pp.131430-131441. ⟨10.1109/ACCESS.2022.3228479⟩. ⟨hal-04008401⟩"],
+                        ["2021", "- Manon Jaffredo, Eléonore Bertin, **Antoine Pirog**, et al. Dynamic uni-and multicellular patterns encode biphasic activity in pancreatic islets. Diabetes, 2021, vol. 70, no 4, p. 878-888. ⟨10.2337/db20-0214⟩"],
+                        ["2018", "- Romain Perrier, **Antoine Pirog**, Manon Jaffredo, et al. Bioelectronic organ-based sensor for microfluidic real-time analysis of the demand in insulin. Biosensors and Bioelectronics, Elsevier, 2018, 117, pp.253-259. ⟨hal-02499537⟩ \n- **Antoine Pirog**, Yannick Bornat, Romain Perrier, et al. Multimed: An Integrated, Multi-Application Platform for the Real-Time Recording and Sub-Millisecond Processing of Biosignals. Sensors, MDPI, 2018, 18 (7) ⟨hal-02499524⟩"],
+                        ["2017", "- Dimitrios Koutsouras, Romain Perrier, Ariana Villarroel Marquez, **Antoine Pirog**, et al. Simultaneous monitoring of single cell and of micro-organ activity by PEDOT:PSS covered multi-electrode arrays. Materials Science and Engineering: C, Elsevier, 2017, 81, pp.84-89 ⟨hal-01578781⟩ \n- Matthieu Ambroise, Stefano Buccelli, Filippo Grassia, **Antoine Pirog**, et al. Biomimetic neural network for modifying biological dynamics during hybrid experiments. 22th International Symposium on Artificial Life and Robotics, Jan 2017, Beppu, Japan. ⟨hal-01567497⟩"],
+                        ["2015", "- Eileen Pedraza, Aleksandar Karajić, Matthieu Raoux, Romain Perrier, **Antoine Pirog**, et al.. Guiding pancreatic beta cells to target electrodes in a whole-cell biosensor for diabetes. Lab on a Chip, Royal Society of Chemistry, 2015, 15 ⟨hal-01347681⟩ \n- Fanny Lebreton, **Antoine Pirog**, Isma Belouah, et al.. Slow potentials encode intercellular coupling and insulin demand in pancreatic beta cells. Diabetologia, Springer Verlag, 2015, 58 (6), pp.1291-1299 ⟨hal-01347716⟩"]
+                    ]
+                },
+                {
+                    "title" : "Communication dans des conférences",
+                    "table" : [
+                        ["Année", "Référence"],
+                        ["2025", "- Roland Giraud, Dorian Chapeau, Jochen Lang, Matthieu Raoux, Sylvie Renaud, **Antoine Pirog**. Comparative study of data processing techniques for pancreatic islets in Organ-on-Chip applications. Biosignals, Feb 2025, Porto, Portugal. pp.957-963, ⟨10.5220/0013255700003911⟩. ⟨hal-05046839⟩"],
+                        ["2024", "- Alexia Bailleul, Florence Poulletier de Gannes, Gilles N'Kaoua, **Antoine Pirog**, Fabien Soulier, et al.. Coupling microfabrication, electronics and tissue engineering to study skeletal muscle physiology. 3D BIO 2024 - 3D models in Biology Symposium, Jun 2024, Talence, France. ⟨hal-04627054⟩ \n- Alexia Bailleul, Florence Poulletier de Gannes, Julien Claudel, Gilles N'Kaoua, **Antoine Pirog**, et al.. Innovative platform for the electrical stimulation and monitoring of 3D muscle tissues. Microphysio 2024 - 2nd Conference on 'Microphysiological systems: From organoids to organs-on-chip', Sep 2024, Cargèse, Corse, France. . ⟨hal04716178⟩"],
+                        ["2022", "- Marie Monchablon, Dorian Chapeau, Gilles N'Kaoua, **Antoine Pirog**, Emilie Puginier, et al.. Multi-sensor pancreaticislets-and-muscle-on-chip for real-time studies of glucose homeostasis. EUROoCS conference on Organ-on-Chip, Jul 2022, Grenoble, France. ⟨hal-04099043⟩ \n- Matthieu Raoux, Emilie Puginier, **Antoine Pirog**, Florence Poulletier de Gannes, Julien Gaitan, et al.. Continuous monitoring in-vivo with an islet-based microfluidic biosensor. DIABETOLOGIA, Sep 2022, Stockholm, France. pp.S362-S363. ⟨hal-03814499⟩ "],
+                        ["2021", "- Louis Cassany, David Gucik-Derigny, Jérôme Cieslak, et al. A Robust Control solution for Glycaemia Regulation of Type-1 Diabetes Mellitus. IEEE European Control Conference, Jun 2021, Rotterdam, Netherlands. ⟨hal-03157045⟩ "],
+                        ["2020", "- Loïc Olçomendy, **Antoine Pirog**, Yannick Bornat, et al. Tuning of an artificial pancreas controller: an in silico methodology based on clinically-relevant criteria. 42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), Jul 2020, Montréal, Canada. ⟨hal-02908200⟩"],
+                        ["2018", "- Manon Jaffredo, **Antoine Pirog**, Éléonore Bertin, et al. Differential beta cell coupling patterns drive biphasic activity. 54th Annual Meeting of the European Association for the Study of Diabetes (EASD) : Oct 2018, Berlin, Germany. ⟨hal-02518447⟩ \n- Manon Jaffredo, **Antoine Pirog**, Éléonore Bertin, et al. Encodage électrique cellulaire et multicellulaire de la sécrétion biphasique d'insuline. Société Francophone du Diabète (SFD), Mar 2018, Nantes, France. ⟨hal-02520933⟩ \n- Matthieu Raoux, **Antoine Pirog**, Domenico Bosco, et al. Quality control of islets prior to transplantation using micro-electrode arrays coupled to automated real-time signal recognition and data treatment. 8th EPITA Symposium & 37th AIDPIT Workshop, Jan 2018, Innsbruck, Austria. ⟨hal-02521011⟩ "],
+                        ["2017", "- **Antoine Pirog**, Sylvie Renaud, Yannick Bornat. A versatile electrode sorting module for MEAs: implementation in a FPGA-based real-time system. IEEE Biomedical Circuits and Systems Conference (BioCAS), Oct 2017, Turin, Italy. ⟨hal-01719658⟩ \n- Matthieu Raoux, Éléonore Bertin, **Antoine Pirog**, et al. Décodage des algorithmes endogènes des îlots en temps réel et leur utilisation dans les simulateurs in-silico du sujet sain ou atteint de diabète de type 1. Société Francophone du Diabète (SFD), Mar 2017, Lille, France. pp.A5 ⟨hal-02520987⟩"]
+                    ]
+                }
+            ]
+        }
+    ]
+}
