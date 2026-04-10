@@ -1,0 +1,60 @@
+\documentclass[11pt,a4paper]{article}
+
+% ---------- Packages ----------
+\usepackage[margin=1.8cm]{geometry}
+\usepackage[hidelinks]{hyperref}
+\usepackage{titlesec}
+\usepackage[HTML]{xcolor}
+\usepackage{orcidlink}       % For Orrcid icon
+\RequirePackage{fontawesome} % For nice icons
+
+\usepackage{float}
+\usepackage{tabularx}
+\usepackage{booktabs}
+% \usepackage{makecell}
+% \renewcommand{\cellalign}{cl}
+
+\usepackage{enumitem}
+\usepackage{needspace}
+
+% ---------- Style ----------
+\setlength\parindent{0pt}
+
+\definecolor{text}{HTML}{0B162C}
+\definecolor{primary}{HTML}{1C2942}
+\definecolor{secondary}{HTML}{3B556D}
+\definecolor{accent}{HTML}{4F8A8B}
+\renewcommand{\familydefault}{\sfdefault}
+\color{text}
+
+\titleformat{\section}{
+  \Large\bfseries\color{primary}
+}{}{0em}{}[\titlerule]
+
+\titleformat{\subsection}{
+  \large\bfseries\color{secondary}
+}{}{0em}{}
+
+\setlist[itemize]{noitemsep, topsep=2pt, leftmargin=10mm}
+
+\pagestyle{empty}
+
+% ---------- Commands ----------
+\newcommand{\cvheader}[4]{
+  \begin{center}
+    {\Huge \color{primary} #1 \textbf{#2}}\\[4pt]
+    {\Large \color{accent} #3}\\[8pt]
+    {\small #4}
+  \end{center}
+  \hrule
+  \vspace{10pt}
+}
+
+\newcommand{\cvitem}[3]{
+  {\raggedleft \textbf{#1} \hfill {\color{accent} #2}}\\
+  {#3}
+  \vspace{8pt}
+}
+
+% ---------- Document ----------
+\begin{document}
